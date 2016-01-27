@@ -1,0 +1,29 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+
+#logo{
+    margin-top:9px;
+    margin-bottom:9px;
+    margin-right:10px;
+    text-transform:uppercase;
+    letter-spacing:-1;
+    padding-top:9px;
+    font-weight:bold;
+    float:left;
+    
+}
+
+.nav-item{
+    float:left;
+    margin-top:8px;
+    padding:10px;
+}
+#logo:hover{
+    color:red;
+}
+.footer{
+    margin-top:20px;
+    border-top:1px solid black;
+}
